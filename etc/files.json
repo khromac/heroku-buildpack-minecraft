@@ -20,6 +20,9 @@
     },
     "1.12.2": {
       "url": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
+    },
+    "1.21": {
+      "url": "https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar"
     }
   }
 }
